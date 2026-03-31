@@ -228,7 +228,7 @@ function HeaderOne() {
                                 <div className="logo-search-category-wrapper">
                                     <Link href="/" className="logo-area">
                                         <img
-                                            src="/assets/images/logo/orrdr.svg"
+                                            src="/assets/images/logo/dookan.svg"
                                             alt="logo-main"
                                             className="logo"
                                         />
@@ -335,7 +335,7 @@ function HeaderOne() {
                                 <div className="logo-search-category-wrapper">
                                     <a href="index.html" className="logo-area">
                                         <img
-                                            src="/assets/images/logo/orrdr.svg"
+                                            src="/assets/images/logo/dookan.svg"
                                             alt="logo-main"
                                             className="logo"
                                         />

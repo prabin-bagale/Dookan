@@ -14,7 +14,7 @@ function FooterTwo() {
                                     <div className="footer-single-wixed-two start">
                                         <Link href="#" className="logo-area">
                                             <img
-                                                src="/assets/images/logo/orrdr.svg"
+                                                src="/assets/images/logo/dookan.svg"
                                                 alt="logo-area"
                                                 className="logo"
                                             />

@@ -246,7 +246,7 @@ function HeaderOne() {
                             <div className="col-lg-12">
                                 <div className="logo-search-category-wrapper">
                                     <Link href="/" className="logo-area">
-                                        <img src="/assets/images/logo/orrdr.svg" alt="logo-main" className="logo" />
+                                        <img src="/assets/images/logo/dookan.svg" alt="logo-main" className="logo" />
                                     </Link>
                                     <div className="category-search-wrapper">
                                         <div className="category-btn category-hover-header">
